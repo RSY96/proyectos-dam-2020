@@ -28,6 +28,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Matabuena Berdugo, Rocío - [Don't rush](https://github.com/rociomatabuenaberdugo/DontRushProject2020) (Android nativo)
 * Pacheco Matas, Rubén - [Cian](https://github.com/rubenpachecomatas/Cian) (Ionic)
 * Pérez Molina, Iván - [ProCampo](https://github.com/ivanperezmolina/procampo) (Android nativo)
+* Santiago Yuste, Rubén - [PPLINEWSAPP] (https://github.com/RSY96/PPLI-NEWS)(Android nativo, nuevo repositorio)
 * Santos Bernal, Clemente - [EFUP](https://github.com/damcsb/EFUP) (Android nativo)
 * Santos Martínez, Rosa Purificación - [MagicStore](https://github.com/gaitaypandereta/magicStore) (Android nativo)
 * Sevilla Ruiz, Borja - [GameApp](https://github.com/bsevrui/Proyecto-Ionic-5) (Ionic)
